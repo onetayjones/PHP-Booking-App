@@ -16,9 +16,9 @@
             <section class="card-display">
                 <div class="card-thanks">
 
-                    <div class="container">
+                    <div class="container-thanks">
                       <h4><b>Thank you for your booking!</b></h4>
-                      <p class="thanks-para">Check your email for your reservation information</p>
+                      <p>Check your email for your reservation information</p>
                       <a href="index.php"><b>Home</b></a>
 
                     </div>
