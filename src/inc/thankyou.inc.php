@@ -15,7 +15,7 @@
   <main>
             <section class="card-display">
                 <div class="card-thanks">
-
+                  <!-- Thank You Form -->
                     <div class="container-thanks">
                       <h4><b>Thank you for your booking!</b></h4>
                       <p>Check your email for your reservation information</p>

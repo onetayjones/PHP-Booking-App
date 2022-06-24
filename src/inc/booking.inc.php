@@ -46,7 +46,7 @@
   <main>
             <section class="card-display">
                 <div class="card-booking">
-
+               <!-- Email Submission / Reservation Confirmation -->
                     <div class="container">
                       <h4><b>Booking</b></h4>
                       <p>Your booking : <?php echo $default_hotel->name ?></p>
@@ -73,7 +73,7 @@
               </section>
 
       </div>
-      
+
     </main>
   </body>
 </html>

@@ -16,9 +16,7 @@
     $hotels = file_get_contents('hotel.json');
     $hotels = json_decode($hotels);
 
-    // echo "<pre>";
-    // print_r($hotels);
-    // exit();
+
 
     $default_hotel = $hotels[0];
 
@@ -52,6 +50,8 @@
         <div class="grid-item">
 
 
+
+ <!-- Hotel Reservation Form -->
       <section class="form-section">
         <form action="compare.php" method="get">
           <fieldset>
@@ -81,7 +81,7 @@
           </section>
           </div>
 
-
+   <!-- Main Page Display Card -->
           <div class="grid-item grid-item-form">
               <section class="card-display">
                 <div class="card">

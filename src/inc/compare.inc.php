@@ -46,7 +46,7 @@
   <main class="compare-main">
     <div class="grid-compare">
 
-
+<!-- Comparing Hotels Display Cards -->
         <?php foreach($hotels as $key => $hotel): ?>
           <div class="grid-item-compare">
               <section class="card-display">
