@@ -13,7 +13,7 @@ h4 {
 
 main {
   padding: 20px;
-  min-height: calc(100vh-200px);
+  min-height: calc(100vh - 200px);
 }
 
 a {
@@ -21,9 +21,9 @@ a {
   text-align: center;
 }
 
-.container{
+/* .container{
   padding-top: 10px;
-}
+} */
 
 .card{
   border-radius: 20px;

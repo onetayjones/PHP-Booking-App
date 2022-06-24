@@ -66,7 +66,7 @@
               </select>
             <div class="form-group">
                 <label for="start">Check-in: </label>
-                <input type="date" min="2022-06-08" name="start" id="start" required>
+                <input type="date" min="2022-06-24" name="start" id="start" required>
             </div>
             <div class="form-group">
                 <label for="end">Check-out: </label>
