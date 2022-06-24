@@ -1,0 +1,29 @@
+[
+  {
+    "id" : "01",
+    "name" : "Cape Dream",
+    "image" : "src/img/capedream.jpg",
+    "location": "Capetown, South Africa",
+    "price": 1200,
+    "description": "Cape Dream is a modern, elegant 4-star hotel overlooking the sea, perfect for a romantic and charming vacation."
+  },
+  {
+    "id" : "02",
+    "name" : "Bliss Boutique",
+    "image" : "src/img/blissboutique.jpg",
+    "location": "Johannesburg, South Africa",
+    "price": 900,
+    "description": "A beautiful getaway from the city, with private pools, romantic spa packages and 24 hour room service."
+
+  },
+  {
+    "id" : "03",
+    "name" : "Lagoon House",
+    "image" : "src/img/lagoonhouse.jpg",
+    "location": "Durban, South Africa",
+    "price":1000,
+    "description": "Lagoon Houses's luxurious rooms and suites overlook lush gardens with panoramic views of the Indian Ocean."
+
+  }
+
+]

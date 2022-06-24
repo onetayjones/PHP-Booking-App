@@ -1,0 +1,145 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+}
+
+body {
+  min-height: 100vh;
+}
+
+h4 {
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+}
+
+/* Navigation Bar */
+nav {
+  margin-bottom: 50px;
+}
+
+.nav-link {
+  margin-left: 20px;
+}
+
+/* Main Page */
+form {
+  display: inline-block;
+  background-color: #C6C5CE;
+  padding: 20px;
+  border-radius: 20px;
+  width: 65%;
+}
+
+.compare-cta {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+label {
+  text-align: left;
+}
+
+legend {
+  text-align: center;
+}
+
+input {
+  width: 100%;
+}
+
+.button {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.grid-item-form {
+  width: 40%;
+}
+
+.form-section {
+  margin-left: 120px;
+}
+
+/* Compare Page */
+.compare-main {
+  margin: 40px;
+}
+
+.grid-compare {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 1fr;
+  grid-gap: 20px;
+}
+
+.button-compare {
+  text-align: center;
+}
+
+/* Booking Page */
+.card-booking {
+  width: 70%;
+  margin-left: 200px;
+  border: 1px solid black;
+  border-radius: 20px;
+  padding-top: 20px;
+}
+
+.card-display {
+  border-radius: 20px;
+}
+
+.grid-item-compare .card {
+  height: 650px;
+}
+
+.grid-item-compare .content {
+  height: 320px;
+}
+
+.card img {
+  border-radius: 20px;
+}
+
+/* Thank Submission Page */
+.card-thanks {
+  margin-left: 150px;
+  padding-top: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+.thanks-para {
+  text-align: center;
+}
+
+/* Footer */
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 90px;
+  border-top: 1px solid black;
+}
+
+footer span {
+  color: #C6C5CE;
+}
+
+/* CSS Queries */
