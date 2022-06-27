@@ -190,6 +190,8 @@ footer span {
     width: 250px;
   }
 
+
+
   .form-section{
     margin-left: 60px;
   }
@@ -209,5 +211,9 @@ footer span {
   .card-thanks{
     margin-left: 10px;
     padding-bottom: 10px;
+  }
+
+  footer{
+    padding: 20px 180px;
   }
   }
